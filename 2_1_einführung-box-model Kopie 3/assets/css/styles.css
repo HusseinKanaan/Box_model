@@ -1,0 +1,131 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    max-width: 1440px
+}
+
+h1 {
+    
+    display: block;
+    margin-left: 350px;
+    margin-bottom: 20px;
+    border: 3px dotted lightskyblue;
+    border-radius: 20px;
+    text-align: center;
+    width: 700px
+
+
+}
+
+h1+p {
+    display: block;
+    border: 2px solid orange;
+    width: 500px;
+    padding: 20px;
+    margin-left: 480px;
+
+}
+
+h1+p+p {
+    display: block;
+    border: 2px solid orange;
+    width: 500px;
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 480px;
+}
+
+h2 {
+    display: block;
+    border: 3px solid rgb(62, 0, 128);
+    width: 700px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 3px 3px 3px 3px rgb(209, 178, 252);
+    margin-top: 20px;
+    margin-left: 350px;
+}
+
+h2+p {
+    display: block;
+    border: 2px solid orange;
+    width: 500px;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 480px;
+
+}
+
+ol {
+    display: block;
+    border: 1px solid rgb(248, 198, 106);
+    width: 500px;
+    padding: 20px;
+    margin-left: 480px;
+
+}
+
+ol li {
+    text-decoration: underline rgb(246, 109, 246);
+    line margin-left: 480px;
+}
+
+h3 {
+    display: block;
+    border: 10px double rgb(62, 0, 128);
+    width: 700px;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 350px;
+
+}
+
+h3+p {
+    display: block;
+    border: 2px solid orange;
+    width: 500px;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 480px;
+
+}
+
+ul {
+    display: block;
+    border: 1px solid rgb(248, 198, 106);
+    width: 500px;
+    padding: 20px;
+    margin-left: 480px;
+}
+
+ul li {
+    text-decoration: underline rgb(246, 109, 246);
+    line
+}
+
+ul+p {
+    display: block;
+    border: 2px solid orange;
+    width: 500px;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 480px;
+}
+
+ul+p+p {
+    display: block;
+    border: 2px solid orange;
+    width: 500px;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 480px;
+}
